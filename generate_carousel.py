@@ -237,8 +237,21 @@ CTA SLIDE PATTERN:
   </div>
 </div>
 
-FRESH CTA KEYWORDS (pick one not used recently):
-Available: CODE, VOICE, AUDIT, REMIX, IDEAS, SHIP, REELS, GRID, LOOP, BEAT, FRAME, RATIO, SCRIPT, SYSTEM, RECORD, PLAN, BRIEF, FLOW, MAP, EDGE
+CTA KEYWORDS — map to real Orcalynx free resources at orcalynx.com/resources:
+Pick the keyword that best fits the carousel topic. Each keyword unlocks a real resource.
+
+| Comment Keyword | Resource Name                  | What they get                                              |
+|-----------------|--------------------------------|------------------------------------------------------------|
+| PLAYBOOK        | Instagram Growth Playbook      | 12-chapter step-by-step guide — niche, hooks, 5X Outlier Rule, funnels, 30-day checklist |
+| FORMULA         | Viral Content Formula          | Full short-form content engine — hook templates, angle frameworks, script builders across 6 niches |
+| HOOKS           | 1,000 Viral Hooks              | Searchable hook library — 1,000+ templates across 7 categories, linked to real reels |
+| FUNNEL          | Instagram Content Funnel       | Top/mid/bottom-funnel content guide — content idea generator, 72 ready-to-film ideas |
+| TRIAL           | Trial Reels Playbook           | Outlier Repost method, Remix Trick, A/B Hook Testing — maximize reel performance |
+| PROFILE         | Fix Your Instagram Profile     | Interactive profile optimization — SEO name field, bio framework, link strategy, bio builder |
+| STORY           | Storytelling for Social Media  | 7 story types with script templates, but/therefore framework, story rhythm and tone |
+
+Always pick the keyword whose resource is most directly useful for the carousel's specific topic.
+Example: a hooks/viral content carousel → HOOKS or FORMULA; a profile/growth carousel → PLAYBOOK or PROFILE.
 """
 
 FULL_CSS = """
