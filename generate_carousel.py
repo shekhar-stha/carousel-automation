@@ -248,7 +248,7 @@ Pick the keyword that best fits the carousel topic. Each keyword unlocks a real 
 | FUNNEL          | Instagram Content Funnel       | Top/mid/bottom-funnel content guide — content idea generator, 72 ready-to-film ideas |
 | TRIAL           | Trial Reels Playbook           | Outlier Repost method, Remix Trick, A/B Hook Testing — maximize reel performance |
 | PROFILE         | Fix Your Instagram Profile     | Interactive profile optimization — SEO name field, bio framework, link strategy, bio builder |
-| STORY           | Storytelling for Social Media  | 7 story types with script templates, but/therefore framework, story rhythm and tone |
+| STORYTELLING    | Storytelling for Social Media  | 7 story types with script templates, but/therefore framework, story rhythm and tone |
 
 Always pick the keyword whose resource is most directly useful for the carousel's specific topic.
 Example: a hooks/viral content carousel → HOOKS or FORMULA; a profile/growth carousel → PLAYBOOK or PROFILE.
